@@ -1,11 +1,12 @@
+Why Its so popular
+ - The system is written in a high-level language, making it easy to read, understand, change, and move to tother machines.
+ - It has a simple user interface that has the power to provide the services that users want.
+ - It provides primitives that permit complex programs to be built from simpler programs.
+ - It uses a hierarchical file system that allows easy maintenance and efficient implementation.
+ - It uses a consistent format for files, the byte stream, making application programs easier to write.
+ - It provides a simple, consistent interface to peripheral devices.
+ - It is a multi-user, multiprocess system; each user can execute several processes simultaneously.
+ - It hides the machine architecture from the user, making it easier to write programs that run on different hardware implementations.
 
-    The system is written in a high-level language, making it easy to read, understand, change, and move to tother machines.
-    It has a simple user interface that has the power to provide the services that users want.
-    It provides primitives that permit complex programs to be built from simpler programs.
-    It uses a hierarchical file system that allows easy maintenance and efficient implementation.
-    It uses a consistent format for files, the byte stream, making application programs easier to write.
-    It provides a simple, consistent interface to peripheral devices.
-    It is a multi-user, multiprocess system; each user can execute several processes simultaneously.
-    It hides the machine architecture from the user, making it easier to write programs that run on different hardware implementations.
 
 
